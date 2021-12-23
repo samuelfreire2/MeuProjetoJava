@@ -1,5 +1,5 @@
 package CursoJavaExecutavel;
-
+/*Quer dizer classe bublica*/
 public class PrimeiraClasseJava {
 	
 	/*Main é um metodo executavel em Java*/
