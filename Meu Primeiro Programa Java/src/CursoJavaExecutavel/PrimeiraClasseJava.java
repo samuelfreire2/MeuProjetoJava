@@ -9,6 +9,9 @@ public class PrimeiraClasseJava {
 		System.out.println("Meu primeiro programa em java");
 		
 		
+		boolean forsa;
+		
+		
 	}
 
 }
